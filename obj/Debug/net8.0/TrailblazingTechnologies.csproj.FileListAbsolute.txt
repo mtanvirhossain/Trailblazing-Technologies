@@ -1,0 +1,14 @@
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/bin/Debug/net8.0/TrailblazingTechnologies
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/bin/Debug/net8.0/TrailblazingTechnologies.deps.json
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/bin/Debug/net8.0/TrailblazingTechnologies.runtimeconfig.json
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/bin/Debug/net8.0/TrailblazingTechnologies.dll
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/bin/Debug/net8.0/TrailblazingTechnologies.pdb
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.AssemblyInfoInputs.cache
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.AssemblyInfo.cs
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.csproj.CoreCompileInputs.cache
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.dll
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/refint/TrailblazingTechnologies.dll
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.pdb
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/TrailblazingTechnologies.genruntimeconfig.cache
+/Users/xxnutcasexx/Documents/Personal Project (Development)/Uni Projects/Trailblazing Technologies/obj/Debug/net8.0/ref/TrailblazingTechnologies.dll

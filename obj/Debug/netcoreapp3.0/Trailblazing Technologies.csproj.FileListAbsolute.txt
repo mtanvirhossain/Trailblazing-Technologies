@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.exe
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.deps.json
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.runtimeconfig.json
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.runtimeconfig.dev.json
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.dll
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\bin\Debug\netcoreapp3.0\Trailblazing Technologies.pdb
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\obj\Debug\netcoreapp3.0\Trailblazing Technologies.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\obj\Debug\netcoreapp3.0\Trailblazing Technologies.AssemblyInfo.cs
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\obj\Debug\netcoreapp3.0\Trailblazing Technologies.dll
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\obj\Debug\netcoreapp3.0\Trailblazing Technologies.pdb
+C:\Users\student\source\repos\TanvirHossain\LabAssessment1\Trailblazing Technologies\obj\Debug\netcoreapp3.0\Trailblazing Technologies.csprojAssemblyReference.cache
